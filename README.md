@@ -23,7 +23,7 @@ Both repositories come from my internship at [SINTEF](https://www.sintef.no/en/)
 
 I've had the opportunity to speak at several tech conferences.
 
-**"Le jaillissement de l'esprit": making computer science learning accessible**
+**"Le jaillissement de l'esprit": getting children into coding**
 
 | Conference | Detail | Link |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ Ces deux dépôts sont issus de mon stage au [SINTEF](https://www.sintef.no/en/)
 
 J'ai eu l'occasion d'intervenir dans plusieurs conférences tech.
 
-**« Le jaillissement de l'esprit » : vulgarisation de l'apprentissage de l'informatique**
+**« Le jaillissement de l'esprit » : donner aux enfants l'envie de coder**
 
 | Conférence | Détail | Lien |
 | --- | --- | --- |
