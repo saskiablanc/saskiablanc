@@ -25,20 +25,21 @@ I've had the opportunity to speak at several tech conferences.
 
 **"Le jaillissement de l'esprit": getting children into coding**
 
-| Conference | Detail | Link |
-| --- | --- | --- |
-| Mixit 2022, Lyon | "Le jaillissement de l'esprit, 7 ans après" | [video](https://mixitconf.org/2022/le-jaillissement-de-l-esprit-7-ans-apres-) |
-| Devoxx France | — | [video](https://www.youtube.com/watch?v=p9y6FoLVi50) |
-| Voxxed Days Luxembourg | Opening keynote | [video](https://www.youtube.com/watch?v=RGE25AhMmZU) |
-| DevFest Toulouse | — | [video](https://www.youtube.com/watch?v=3r12HslMosQ) |
+| Conference | Year | Detail | Link |
+| --- | --- | --- | --- |
+| Devoxx France | 2018 | / | [video](https://www.youtube.com/watch?v=p9y6FoLVi50) |
+| Devoxx Morocco | 2018 | Closing keynote, video not available | [X post](https://x.com/Devoxx/status/1068180676099350529?s=20) |
+| Voxxed Days Luxembourg | 2018 | Opening keynote | [video](https://www.youtube.com/watch?v=RGE25AhMmZU) |
+| DevFest Toulouse | 2019 | / | [video](https://www.youtube.com/watch?v=3r12HslMosQ) |
+| Mixit, Lyon | 2022 | "Le jaillissement de l'esprit, 7 ans après" | [video](https://mixitconf.org/2022/le-jaillissement-de-l-esprit-7-ans-apres-) |
 
 Also featured among the Devoxx France 2018 speakers by Duchess France ([article](https://www.duchess-france.fr/coup-de-coeur/les-conferences/2018/04/17/les-oratrices-de-devoxx-france-2018.html)).
 
 **Other**
 
-| Conference | Detail | Links |
-| --- | --- | --- |
-| RivieraDev 2023 | A talk given with my robotics club | [Official page](https://2023.rivieradev.fr/session/1213) |
+| Conference | Year | Detail | Links |
+| --- | --- | --- | --- |
+| RivieraDev | 2023 | A talk given with my robotics club | [Official page](https://2023.rivieradev.fr/session/1213) |
 
 ## Get in touch
 
@@ -68,20 +69,21 @@ J'ai eu l'occasion d'intervenir dans plusieurs conférences tech.
 
 **« Le jaillissement de l'esprit » : donner aux enfants l'envie de coder**
 
-| Conférence | Détail | Lien |
-| --- | --- | --- |
-| Mixit 2022, Lyon | « Le jaillissement de l'esprit, 7 ans après » | [vidéo](https://mixitconf.org/2022/le-jaillissement-de-l-esprit-7-ans-apres-) |
-| Devoxx France | — | [vidéo](https://www.youtube.com/watch?v=p9y6FoLVi50) |
-| Voxxed Days Luxembourg | Keynote d'ouverture | [vidéo](https://www.youtube.com/watch?v=RGE25AhMmZU) |
-| DevFest Toulouse | — | [vidéo](https://www.youtube.com/watch?v=3r12HslMosQ) |
+| Conférence | Année | Détail | Lien |
+| --- | --- | --- | --- |
+| Devoxx France | 2018 | / | [vidéo](https://www.youtube.com/watch?v=p9y6FoLVi50) |
+| Devoxx Morocco | 2018 | Keynote de fermeture, vidéo non disponible | [post X](https://x.com/Devoxx/status/1068180676099350529?s=20) |
+| Voxxed Days Luxembourg | 2018 | Keynote d'ouverture | [vidéo](https://www.youtube.com/watch?v=RGE25AhMmZU) |
+| DevFest Toulouse | 2019 | / | [vidéo](https://www.youtube.com/watch?v=3r12HslMosQ) |
+| Mixit, Lyon | 2022 | « Le jaillissement de l'esprit, 7 ans après » | [vidéo](https://mixitconf.org/2022/le-jaillissement-de-l-esprit-7-ans-apres-) |
 
 Également citée parmi les oratrices de Devoxx France 2018 par Duchess France ([article](https://www.duchess-france.fr/coup-de-coeur/les-conferences/2018/04/17/les-oratrices-de-devoxx-france-2018.html)).
 
 **Autre**
 
-| Conférence | Détail | Liens |
-| --- | --- | --- |
-| RivieraDev 2023 | Talk présenté avec mon club de robotique | [Page officielle](https://2023.rivieradev.fr/session/1213) |
+| Conférence | Année | Détail | Liens |
+| --- | --- | --- | --- |
+| RivieraDev | 2023 | Talk présenté avec mon club de robotique | [Page officielle](https://2023.rivieradev.fr/session/1213) |
 
 ## Me contacter
 
