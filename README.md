@@ -14,10 +14,16 @@ After two years of a French BUT in Computer Science, I am now an engineering stu
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [inSwitch-agent-skills](https://github.com/INTEND-Project/inSwitch-agent-skills) | An experimental version of inSwitch built around multi-agency and _agent skills_ | Python · TypeScript · React · Docker |
-| [fill-nerve-sim](https://github.com/INTEND-Project/fill-nerve-sim) | A container-based simulation of the Nerve API for the FILL use case | TypeScript · Python · Docker |
+| [inSwitch-agent-skills](https://github.com/INTEND-Project/inSwitch-agent-skills) | Generic multi-agent core that loads _agent skills_ written in Markdown to turn a natural-language intent into a concrete system reconfiguration | Python · TypeScript · React · Docker |
+| [fill-nerve-sim](https://github.com/INTEND-Project/fill-nerve-sim) | Container-based simulation of the Nerve API for the FILL use case, with its own skills and tools; a concrete use case the core runs on | TypeScript · Python · Docker |
+| [the-main-stage](https://github.com/saskiablanc/the-main-stage) | Multiplayer music card-collection game inspired by FIFA Ultimate Team: collect musicians through packs and trade on a real-time shared marketplace | Java · Spring Boot WebFlux · R2DBC · PostgreSQL · SSE |
+| [discovery-big-data](https://github.com/saskiablanc/discovery-big-data) | Real-time data pipeline exploring Apache Kafka and Apache Spark: streams generated user profiles into PostgreSQL and a live web interface | Java · Kafka · Spark · PostgreSQL · Spring Boot |
+| [card-battle-platform](https://github.com/saskiablanc/card-battle-platform) | Card trading and battle platform with a C server and a JavaFX client; the server persists cards in a blockchain secured with SHA256 | C · Java · JavaFX · PostgreSQL · OpenSSL |
+| [emploi-du-temps](https://github.com/saskiablanc/emploi-du-temps) | Timetable generator that builds a schedule under constraints, viewable from a terminal interface or a web interface | Java |
 
-Both repositories come from my internship at [SINTEF](https://www.sintef.no/en/), a research institute in Oslo, on the [INTEND](https://intendproject.eu/) European project. **`inSwitch-agent-skills`** is the generic multi-agent core (Python engine plus React dashboard), driven entirely by _agent skills_ written as Markdown. **`fill-nerve-sim`** is a concrete use case it runs on: a simulation of the Nerve API for the FILL use case, with its own skills and tools specific to that system. The core loads those skills to turn a natural-language _intent_ into a concrete reconfiguration of the system.
+The first two repositories come from my internship at [SINTEF](https://www.sintef.no/en/), a research institute in Oslo, on the [INTEND](https://intendproject.eu/) European project. The internship focused on **agentic AI for service orchestration on the cloud-edge continuum**: designing a generic multi-agent system that loads _agent skills_ (written in Markdown) to translate a high-level natural-language _intent_ into a concrete reconfiguration of a running system. **`inSwitch-agent-skills`** is that generic multi-agent core (Python engine plus React dashboard), and **`fill-nerve-sim`** is a concrete use case it runs on: a simulation of the Nerve API for the FILL use case, with its own skills and tools specific to that system.
+
+The remaining repositories gather coursework and personal projects.
 
 ## Talks & conferences
 
@@ -58,10 +64,16 @@ Après deux années de BUT Informatique, je suis aujourd'hui élève-ingénieure
 
 | Projet | Description | Techno |
 | --- | --- | --- |
-| [inSwitch-agent-skills](https://github.com/INTEND-Project/inSwitch-agent-skills) | Version expérimentale d'inSwitch construite autour du multi-agent et des _agent skills_ | Python · TypeScript · React · Docker |
-| [fill-nerve-sim](https://github.com/INTEND-Project/fill-nerve-sim) | Simulation de l'API Nerve basée sur des conteneurs, pour le cas d'usage FILL | TypeScript · Python · Docker |
+| [inSwitch-agent-skills](https://github.com/INTEND-Project/inSwitch-agent-skills) | Cœur multi-agent générique qui charge des _agent skills_ écrits en Markdown pour traduire un intent en langage naturel en une reconfiguration concrète du système | Python · TypeScript · React · Docker |
+| [fill-nerve-sim](https://github.com/INTEND-Project/fill-nerve-sim) | Simulation de l'API Nerve basée sur des conteneurs, pour le cas d'usage FILL, avec ses propres skills et tools ; cas d'usage concret sur lequel tourne le cœur | TypeScript · Python · Docker |
+| [the-main-stage](https://github.com/saskiablanc/the-main-stage) | Jeu multijoueur de collection de cartes musicales inspiré de FIFA Ultimate Team : collectionner des musiciens via des packs et échanger sur un marché partagé en temps réel | Java · Spring Boot WebFlux · R2DBC · PostgreSQL · SSE |
+| [discovery-big-data](https://github.com/saskiablanc/discovery-big-data) | Pipeline de données temps réel explorant Apache Kafka et Apache Spark : transmet des profils générés vers PostgreSQL et une interface web en direct | Java · Kafka · Spark · PostgreSQL · Spring Boot |
+| [card-battle-platform](https://github.com/saskiablanc/card-battle-platform) | Plateforme d'échange et de combat de cartes avec un serveur en C et un client JavaFX ; le serveur persiste les cartes dans une blockchain sécurisée par SHA256 | C · Java · JavaFX · PostgreSQL · OpenSSL |
+| [emploi-du-temps](https://github.com/saskiablanc/emploi-du-temps) | Générateur d'emploi du temps qui construit un planning sous contraintes, consultable depuis une interface terminal ou une interface web | Java |
 
-Ces deux dépôts sont issus de mon stage au [SINTEF](https://www.sintef.no/en/), un centre de recherche à Oslo, sur le projet européen [INTEND](https://intendproject.eu/). **`inSwitch-agent-skills`** est le cœur multi-agent générique (moteur Python et tableau de bord React), piloté entièrement par des _agent skills_ écrits en Markdown. **`fill-nerve-sim`** est un cas d'usage concret sur lequel il tourne : une simulation de l'API Nerve pour le cas d'usage FILL, avec ses propres skills et tools spécifiques à ce système. Le cœur charge ces skills pour traduire un _intent_ en langage naturel en une reconfiguration concrète du système.
+Les deux premiers dépôts sont issus de mon stage au [SINTEF](https://www.sintef.no/en/), un centre de recherche à Oslo, sur le projet européen [INTEND](https://intendproject.eu/). Le stage portait sur l'**IA agentique pour l'orchestration de services sur le continuum cloud-edge** : concevoir un système multi-agent générique qui charge des _agent skills_ (écrits en Markdown) pour traduire un _intent_ en langage naturel de haut niveau en une reconfiguration concrète d'un système en cours d'exécution. **`inSwitch-agent-skills`** est ce cœur multi-agent générique (moteur Python et tableau de bord React), et **`fill-nerve-sim`** est un cas d'usage concret sur lequel il tourne : une simulation de l'API Nerve pour le cas d'usage FILL, avec ses propres skills et tools spécifiques à ce système.
+
+Les autres dépôts rassemblent des projets de cours et personnels.
 
 ## Interventions & conférences
 
